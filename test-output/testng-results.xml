@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-18T12:31:35 IST" name="Default suite" finished-at="2025-04-18T12:32:40 IST" duration-ms="65564">
+    <groups>
+    </groups>
+    <test started-at="2025-04-18T12:31:35 IST" name="Default test" finished-at="2025-04-18T12:32:40 IST" duration-ms="65564">
+      <class name="Appium.Appium_Assignment.StandaloneTEst">
+        <test-method is-config="true" signature="configureAppium()[pri:0, instance:Appium.Appium_Assignment.StandaloneTEst@7c137fd5]" started-at="2025-04-18T12:31:35 IST" name="configureAppium" finished-at="2025-04-18T12:31:52 IST" duration-ms="17404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureAppium -->
+        <test-method signature="AppiumTest()[pri:0, instance:Appium.Appium_Assignment.StandaloneTEst@7c137fd5]" started-at="2025-04-18T12:31:52 IST" name="AppiumTest" finished-at="2025-04-18T12:32:40 IST" duration-ms="47529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Appium.Appium_Assignment.StandaloneTEst@7c137fd5]" started-at="2025-04-18T12:32:40 IST" name="tearDown" finished-at="2025-04-18T12:32:40 IST" duration-ms="579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Appium.Appium_Assignment.StandaloneTEst -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
