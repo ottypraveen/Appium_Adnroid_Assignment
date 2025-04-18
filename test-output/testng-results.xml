@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-18T12:31:35 IST" name="Default suite" finished-at="2025-04-18T12:32:40 IST" duration-ms="65564">
+  <suite started-at="2025-04-18T12:47:01 IST" name="Default suite" finished-at="2025-04-18T12:48:18 IST" duration-ms="77185">
     <groups>
     </groups>
-    <test started-at="2025-04-18T12:31:35 IST" name="Default test" finished-at="2025-04-18T12:32:40 IST" duration-ms="65564">
-      <class name="Appium.Appium_Assignment.StandaloneTEst">
-        <test-method is-config="true" signature="configureAppium()[pri:0, instance:Appium.Appium_Assignment.StandaloneTEst@7c137fd5]" started-at="2025-04-18T12:31:35 IST" name="configureAppium" finished-at="2025-04-18T12:31:52 IST" duration-ms="17404" status="PASS">
+    <test started-at="2025-04-18T12:47:01 IST" name="Default test" finished-at="2025-04-18T12:48:18 IST" duration-ms="77185">
+      <class name="Appium.Appium_Assignment.e_CommerceE2E">
+        <test-method is-config="true" signature="configureAppium()[pri:0, instance:Appium.Appium_Assignment.e_CommerceE2E@7c137fd5]" started-at="2025-04-18T12:47:01 IST" name="configureAppium" finished-at="2025-04-18T12:47:19 IST" duration-ms="18551" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configureAppium -->
-        <test-method signature="AppiumTest()[pri:0, instance:Appium.Appium_Assignment.StandaloneTEst@7c137fd5]" started-at="2025-04-18T12:31:52 IST" name="AppiumTest" finished-at="2025-04-18T12:32:40 IST" duration-ms="47529" status="PASS">
+        <test-method signature="AppiumTest()[pri:0, instance:Appium.Appium_Assignment.e_CommerceE2E@7c137fd5]" started-at="2025-04-18T12:47:19 IST" name="AppiumTest" finished-at="2025-04-18T12:48:17 IST" duration-ms="57557" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AppiumTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Appium.Appium_Assignment.StandaloneTEst@7c137fd5]" started-at="2025-04-18T12:32:40 IST" name="tearDown" finished-at="2025-04-18T12:32:40 IST" duration-ms="579" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Appium.Appium_Assignment.e_CommerceE2E@7c137fd5]" started-at="2025-04-18T12:48:17 IST" name="tearDown" finished-at="2025-04-18T12:48:18 IST" duration-ms="977" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- Appium.Appium_Assignment.StandaloneTEst -->
+      </class> <!-- Appium.Appium_Assignment.e_CommerceE2E -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
