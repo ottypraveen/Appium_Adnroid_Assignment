@@ -47,8 +47,8 @@ public class BaseTest {
 		option.setDeviceName("PraveenEmulator2");
 		option.setAutomationName(AutomationName.ANDROID_UIAUTOMATOR2);
 		option.setApp(
-				"C:\\Users\\ottyp\\eclipse-workspace\\Appium_Assignment\\src\\test\\java\\Resources\\General-Store.apk");
-		option.setChromedriverExecutable("C:\\Users\\ottyp\\eclipse-workspace\\Appium_Assignment\\chromedriver.exe");
+				System.getProperty("user.dir")+"\\src\\test\\java\\Resources\\General-Store.apk");
+		//option.setChromedriverExecutable("C:\\Users\\ottyp\\eclipse-workspace\\Appium_Assignment\\chromedriver.exe");
 		driver = new AndroidDriver(new URL("http://127.0.0.1:4723"), option);
 		Thread.sleep(10000);
 
